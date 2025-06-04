@@ -1,0 +1,16 @@
+{
+  "name": "72232647f",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u00007\u00002\u00002\u00003\u00002\u00006\u00004\u00007\u0000F\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0"
+  }
+}

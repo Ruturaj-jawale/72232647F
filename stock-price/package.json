@@ -1,0 +1,24 @@
+{
+  "name": "stock-aggregator",
+  "version": "1.0.0",
+  "description": "HTTP microservice to aggregate stock prices and compute correlations",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "stock",
+    "aggregation",
+    "microservice",
+    "correlation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
